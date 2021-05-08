@@ -1,0 +1,14 @@
+[
+    {
+      "name": "VGDb",
+      "live": "http://vgdb-prjct1.vercel.app",
+      "git": "https://github.com/gedunlap/VGDb_prjct1",
+      "image": "https://i.imgur.com/0kD5haI.png"
+    },
+    {
+      "name": "Material-TPA",
+      "live": "https://materialtpagd.herokuapp.com/",
+      "git": "https://github.com/gedunlap/material-tpa",
+      "image": "https://i.imgur.com/pT3Ilgr.png"
+    }
+  ]
